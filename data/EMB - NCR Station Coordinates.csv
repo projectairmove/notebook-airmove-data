@@ -1,0 +1,28 @@
+name,address,north,east,area_type,station_type,station_type_desc
+Pasay,"PAL Cmpd., Andrews Ave., Brgy. 184, Zone 19, Pasay City",14º 31’ 42”,121º 0’ 29”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Marikina,"Hall of Justice, Open Ground, Marikina City Hall, Marikina City",14º 38’ 0.28”,121º 05’ 59.4”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Muntinlupa,"Muntinlupa Bilibid Prison open ground, Muntinlupa City",14º 23’ 0.58”,121º 2’ 1.23”,"General Ambient, Unpaved Road",1,CAMS – Particulate Matter System (PMS)
+Mandaluyong,"Plaza Hardin, Martinez Highway, Addition Hill, Mandaluyong City",14º 35’ 0.228”,121º 2’ 12.54”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS)
+San Juan City,"Pinaglabanan Shrine along Pinaglabanan St., San Juan City","14° 36' 20.01""","121° 1' 56.06""","Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Pateros,"Pateros Elementary School, P. Herrera St., San Pedro, Municipality of Pateros","14° 32' 48.47""","121° 4' 0.33""","Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Las Pinas,"Rohm and Hass Warehouse Compound, CAA Road, Las Piñas City",14º 27’ 0.234”,120º 59’ 39.753”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Navotas,"Navotas City Hall Cmpd., M. Naval Street, Navotas City",14º 39’ 27.78”,120º 56’ 51.72”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS)
+North Caloocan,"Caloocan City Hall Annex Cmpd., Caloocan City ",14º 45’ 4.833”,121º 3’ 14.164”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Parañaque,"Don Bosco Barangay Hall, Parañaque City",14º 28’ 53.4972”,121º 2’ 17.7288”,"General Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Pasig,"Country Lodge Cpd., 18 Danny Floro Street, Oranbo, Pasig City",14º 34’ 19.497”,121º 3’ 56.012”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Taguig City,"TUP Taguig Campus, East Service Road, Western Bicutan, Taguig City",14º 30’37.6956”,121º 2’ 9.3228”,"General Ambient, Unpaved Road",1,CAMS – Particulate Matter System (PMS)
+Malabon,"Malabon Polythechnic Institute Cmpd., Gov. A. Pascual 
+Avenue cor A. Reyes Street, Malabon City",14º 40’ 15.57”,120º 57’ 3.35”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Makati,"Makati Park and Garden, Dr. Jose P. Rizal Extension, Makati City",14º 33’ 57”,121º 3’ 20”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Manila,"MEHAN Garden Compound, City of Manila",14º 35’ 30”,120º 58’ 50”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS)
+Ateneo,"Manila Observatory Cmpd., Ateneo de Manila University, katipunan Road, Central, Quezon City",14°38’08.49”,121°04’42.77”,"General Ambient, Paved Road",2,Manual – High Volume Samplers TSP
+Valenzuela,"ALERT Center, McArthur Hi-way, Malinta, Valenzuela City",,,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers TSP
+Mandaluyong,"Mandaluyong City Hall Cmpd, Maycilo Circle, Plainview, Mandaluyong City",14°33’40.51”,121°02’35.29”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP
+DOH Station,"DOH Cmpd, Rizal Avenue, Sta. Cruz, Manila",14°36’57.88”,120°58’57.46”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP
+Pasay Station,"PAL Cmpd., Andrews Ave., Brgy. 184, Zone 19, Pasay City",14º 31’ 42”,121º 0’ 29”,"Roadside, Paved Road",2,Manual – High Volume Samplers PM10
+Marikina Station,"Marikina Sports Complex, Sumulong Hi-way, Sto Nino, Marikina City",14°38’07.56”,121°05’32.35”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP & PM10
+Makati Station,"Makati Bureau of Fire Cmpd., Ayala Avenue cor. Buendia, Bel-Air, Makati City",14°33’45.38”,120°00’55.67”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP 
+Muntinlupa,"Bilibid Prison open ground cmpd. Bilibid, Muntinlupa City",14°23’00.58,121°02’1.23,"General Ambient, Unpaved Road",2,Manual – High Volume Samplers PM10
+NPO,"National Printing Office Cmpd., EDSA, Diliman, Quezon City",14°38’21.25”,121°02’27.74”,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers PM10
+MMDA,"MMDA Cmpd, Guadalupe, Makati City",14°33’40.51”,121°02’35.29”,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers PM10
+East Avenue,"National Ecology Center Cmpd., East Avenue, Diliman, Quezon City",14°38’40.29”,121°02’51.79”,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers TSP 
