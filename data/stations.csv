@@ -1,27 +1,27 @@
 ,name,address,north,east,area_type,station_type,station_type_desc,lat,lon
-0,Pasay,"PAL Cmpd., Andrews Ave., Brgy. 184, Zone 19, Pasay City",14º 31’ 42”,121º 0’ 29”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.528333333333334,121.00805555555556
-1,Marikina,"Hall of Justice, Open Ground, Marikina City Hall, Marikina City",14º 38’ 0.28”,121º 05’ 59.4”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.63341111111111,121.09983333333332
-2,Muntinlupa,"Muntinlupa Bilibid Prison open ground, Muntinlupa City",14º 23’ 0.58”,121º 2’ 1.23”,"General Ambient, Unpaved Road",1,CAMS – Particulate Matter System (PMS),14.383494444444445,121.033675
-3,Mandaluyong,"Plaza Hardin, Martinez Highway, Addition Hill, Mandaluyong City",14º 35’ 0.228”,121º 2’ 12.54”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.583396666666667,121.03681666666667
-4,San Juan City,"Pinaglabanan Shrine along Pinaglabanan St., San Juan City","14° 36' 20.01""","121° 1' 56.06""","Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.605558333333333,121.03223888888888
-5,Pateros,"Pateros Elementary School, P. Herrera St., San Pedro, Municipality of Pateros","14° 32' 48.47""","121° 4' 0.33""","Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.546797222222223,121.06675833333333
-6,Las Pinas,"Rohm and Hass Warehouse Compound, CAA Road, Las Piñas City",14º 27’ 0.234”,120º 59’ 39.753”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.450064999999999,120.99437583333334
-7,Navotas,"Navotas City Hall Cmpd., M. Naval Street, Navotas City",14º 39’ 27.78”,120º 56’ 51.72”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.657716666666667,120.9477
-8,North Caloocan,"Caloocan City Hall Annex Cmpd., Caloocan City ",14º 45’ 4.833”,121º 3’ 14.164”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.7513425,121.05393444444444
-9,Parañaque,"Don Bosco Barangay Hall, Parañaque City",14º 28’ 53.4972”,121º 2’ 17.7288”,"General Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.481527,121.038258
-10,Pasig,"Country Lodge Cpd., 18 Danny Floro Street, Oranbo, Pasig City",14º 34’ 19.497”,121º 3’ 56.012”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.5720825,121.06555888888889
-11,Taguig City,"TUP Taguig Campus, East Service Road, Western Bicutan, Taguig City",14º 30’37.6956”,121º 2’ 9.3228”,"General Ambient, Unpaved Road",1,CAMS – Particulate Matter System (PMS),14.510471,121.035923
-12,Malabon,"Malabon Polythechnic Institute Cmpd., Gov. A. Pascual 
+1,Pasay,"PAL Cmpd., Andrews Ave., Brgy. 184, Zone 19, Pasay City",14º 31’ 42”,121º 0’ 29”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.528333333333334,121.00805555555556
+2,Marikina,"Hall of Justice, Open Ground, Marikina City Hall, Marikina City",14º 38’ 0.28”,121º 05’ 59.4”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.63341111111111,121.09983333333332
+3,Muntinlupa,"Muntinlupa Bilibid Prison open ground, Muntinlupa City",14º 23’ 0.58”,121º 2’ 1.23”,"General Ambient, Unpaved Road",1,CAMS – Particulate Matter System (PMS),14.383494444444445,121.033675
+4,Mandaluyong,"Plaza Hardin, Martinez Highway, Addition Hill, Mandaluyong City",14º 35’ 0.228”,121º 2’ 12.54”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.583396666666667,121.03681666666667
+5,San Juan City,"Pinaglabanan Shrine along Pinaglabanan St., San Juan City","14° 36' 20.01""","121° 1' 56.06""","Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.605558333333333,121.03223888888888
+6,Pateros,"Pateros Elementary School, P. Herrera St., San Pedro, Municipality of Pateros","14° 32' 48.47""","121° 4' 0.33""","Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.546797222222223,121.06675833333333
+7,Las Pinas,"Rohm and Hass Warehouse Compound, CAA Road, Las Piñas City",14º 27’ 0.234”,120º 59’ 39.753”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.450064999999999,120.99437583333334
+8,Navotas,"Navotas City Hall Cmpd., M. Naval Street, Navotas City",14º 39’ 27.78”,120º 56’ 51.72”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.657716666666667,120.9477
+9,North Caloocan,"Caloocan City Hall Annex Cmpd., Caloocan City ",14º 45’ 4.833”,121º 3’ 14.164”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.7513425,121.05393444444444
+10,Parañaque,"Don Bosco Barangay Hall, Parañaque City",14º 28’ 53.4972”,121º 2’ 17.7288”,"General Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.481527,121.038258
+11,Pasig,"Country Lodge Cpd., 18 Danny Floro Street, Oranbo, Pasig City",14º 34’ 19.497”,121º 3’ 56.012”,"Roadside, Paved Road",1,CAMS – Particulate Matter System (PMS),14.5720825,121.06555888888889
+12,Taguig City,"TUP Taguig Campus, East Service Road, Western Bicutan, Taguig City",14º 30’37.6956”,121º 2’ 9.3228”,"General Ambient, Unpaved Road",1,CAMS – Particulate Matter System (PMS),14.510471,121.035923
+13,Malabon,"Malabon Polythechnic Institute Cmpd., Gov. A. Pascual 
 Avenue cor A. Reyes Street, Malabon City",14º 40’ 15.57”,120º 57’ 3.35”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.670991666666666,120.95093055555556
-13,Makati,"Makati Park and Garden, Dr. Jose P. Rizal Extension, Makati City",14º 33’ 57”,121º 3’ 20”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.565833333333334,121.05555555555556
-14,Manila,"MEHAN Garden Compound, City of Manila",14º 35’ 30”,120º 58’ 50”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.591666666666667,120.98055555555555
-15,Ateneo,"Manila Observatory Cmpd., Ateneo de Manila University, katipunan Road, Central, Quezon City",14°38’08.49”,121°04’42.77”,"General Ambient, Paved Road",2,Manual – High Volume Samplers TSP,14.635691666666666,121.07854722222221
-17,Mandaluyong,"Mandaluyong City Hall Cmpd, Maycilo Circle, Plainview, Mandaluyong City",14°33’40.51”,121°02’35.29”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP,14.561252777777778,121.04313611111111
-18,DOH Station,"DOH Cmpd, Rizal Avenue, Sta. Cruz, Manila",14°36’57.88”,120°58’57.46”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP,14.616077777777777,120.98262777777778
-19,Pasay Station,"PAL Cmpd., Andrews Ave., Brgy. 184, Zone 19, Pasay City",14º 31’ 42”,121º 0’ 29”,"Roadside, Paved Road",2,Manual – High Volume Samplers PM10,14.528333333333334,121.00805555555556
-20,Marikina Station,"Marikina Sports Complex, Sumulong Hi-way, Sto Nino, Marikina City",14°38’07.56”,121°05’32.35”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP & PM10,14.635433333333333,121.09231944444444
-21,Makati Station,"Makati Bureau of Fire Cmpd., Ayala Avenue cor. Buendia, Bel-Air, Makati City",14°33’45.38”,120°00’55.67”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP ,14.562605555555557,120.01546388888889
-22,Muntinlupa,"Bilibid Prison open ground cmpd. Bilibid, Muntinlupa City",14°23’00.58,121°02’1.23,"General Ambient, Unpaved Road",2,Manual – High Volume Samplers PM10,14.383494444444445,121.033675
-23,NPO,"National Printing Office Cmpd., EDSA, Diliman, Quezon City",14°38’21.25”,121°02’27.74”,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers PM10,14.63923611111111,121.04103888888889
-24,MMDA,"MMDA Cmpd, Guadalupe, Makati City",14°33’40.51”,121°02’35.29”,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers PM10,14.561252777777778,121.04313611111111
-25,East Avenue,"National Ecology Center Cmpd., East Avenue, Diliman, Quezon City",14°38’40.29”,121°02’51.79”,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers TSP ,14.644525,121.04771944444444
+14,Makati,"Makati Park and Garden, Dr. Jose P. Rizal Extension, Makati City",14º 33’ 57”,121º 3’ 20”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.565833333333334,121.05555555555556
+15,Manila,"MEHAN Garden Compound, City of Manila",14º 35’ 30”,120º 58’ 50”,"Roadside Ambient, Paved Road",1,CAMS – Particulate Matter System (PMS),14.591666666666667,120.98055555555555
+16,Ateneo,"Manila Observatory Cmpd., Ateneo de Manila University, katipunan Road, Central, Quezon City",14°38’08.49”,121°04’42.77”,"General Ambient, Paved Road",2,Manual – High Volume Samplers TSP,14.635691666666666,121.07854722222221
+18,Mandaluyong,"Mandaluyong City Hall Cmpd, Maycilo Circle, Plainview, Mandaluyong City",14°33’40.51”,121°02’35.29”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP,14.561252777777778,121.04313611111111
+19,DOH Station,"DOH Cmpd, Rizal Avenue, Sta. Cruz, Manila",14°36’57.88”,120°58’57.46”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP,14.616077777777777,120.98262777777778
+20,Pasay Station,"PAL Cmpd., Andrews Ave., Brgy. 184, Zone 19, Pasay City",14º 31’ 42”,121º 0’ 29”,"Roadside, Paved Road",2,Manual – High Volume Samplers PM10,14.528333333333334,121.00805555555556
+21,Marikina Station,"Marikina Sports Complex, Sumulong Hi-way, Sto Nino, Marikina City",14°38’07.56”,121°05’32.35”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP & PM10,14.635433333333333,121.09231944444444
+22,Makati Station,"Makati Bureau of Fire Cmpd., Ayala Avenue cor. Buendia, Bel-Air, Makati City",14°33’45.38”,120°00’55.67”,"Roadside, Paved Road",2,Manual – High Volume Samplers TSP ,14.562605555555557,120.01546388888889
+23,Muntinlupa,"Bilibid Prison open ground cmpd. Bilibid, Muntinlupa City",14°23’00.58,121°02’1.23,"General Ambient, Unpaved Road",2,Manual – High Volume Samplers PM10,14.383494444444445,121.033675
+24,NPO,"National Printing Office Cmpd., EDSA, Diliman, Quezon City",14°38’21.25”,121°02’27.74”,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers PM10,14.63923611111111,121.04103888888889
+25,MMDA,"MMDA Cmpd, Guadalupe, Makati City",14°33’40.51”,121°02’35.29”,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers PM10,14.561252777777778,121.04313611111111
+26,East Avenue,"National Ecology Center Cmpd., East Avenue, Diliman, Quezon City",14°38’40.29”,121°02’51.79”,"Roadside Ambient, Paved Road",2,Manual – High Volume Samplers TSP ,14.644525,121.04771944444444
