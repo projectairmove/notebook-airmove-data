@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z  8 Dec 2019 to 0000Z  9 Dec 2019</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 09/0000 1014.0  27  21  70       1     10.0  FEW025
+RPLL 08/2300 1013.0  25  20  74 350   2     10.0  FEW023  SCT100
+RPLL 08/2200 1013.0  25  21  78 240   2     10.0  SCT023  SCT100
+RPLL 08/2100 1012.0  25  21  78       1     10.0  SCT023  SCT100
+RPLL 08/2000 1012.0  25  21  78 240   2     10.0  FEW023
+RPLL 08/1900 1012.0  25  21  78       1     10.0  SCT023  SCT100
+RPLL 08/1800 1013.0  25  21  78       1     10.0  FEW025
+RPLL 08/1700 1013.0  25  21  78       1     10.0  FEW030
+RPLL 08/1600 1013.0  25  21  78       1     10.0  FEW025
+RPLL 08/1500 1014.0  26  20  70   0   0     10.0  FEW025
+RPLL 08/1400 1014.0  26  20  70 300   2     10.0  FEW025
+RPLL 08/1300 1014.0  27  20  66 120   2     10.0  FEW025
+RPLL 08/1200 1014.0  27  20  66  80   3     10.0  FEW025
+RPLL 08/1100 1013.0  27  20  66  90   4     10.0  FEW025
+RPLL 08/1000 1012.0  28  23  74 100   3     10.0  FEW023
+RPLL 08/0900 1012.0  29  20  58  90   5  10 10.0  FEW025
+RPLL 08/0800 1011.0  30  20  55  90   6     10.0  FEW025
+RPLL 08/0700 1011.0  31  20  52 100   5     10.0  SCT023
+RPLL 08/0600 1011.0  31  21  55 100   3     10.0  FEW023  BKN090
+RPLL 08/0500 1012.0  30  21  59  90   5     10.0  FEW023  SCT090
+RPLL 08/0400 1012.0  30  21  59 310   4     10.0  FEW023  SCT090
+RPLL 08/0300 1013.0  30  21  59       3     10.0  SCT023  SCT090
+RPLL 08/0200 1014.0  28  21  66 280   3     10.0  FEW023  SCT090
+RPLL 08/0100 1014.0  28  22  70 300   3     10.0  FEW025  SCT100
+RPLL 08/0000 1013.0  27  21  70 270   2     10.0  FEW025  SCT100
+</PRE>

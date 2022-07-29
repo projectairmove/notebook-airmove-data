@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 21 Aug 2021 to 0000Z 22 Aug 2021</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s km                                       
+==== ======= ====== === === === === === ==== ======= ======= ======= ============
+RPLL 22/0000 1010.0  29  25  79       1  5.0  FEW025                 HZ
+RPLL 21/2300 1009.0  27  24  84       1  6.0  FEW025
+RPLL 21/2200 1009.0  26  24  89  10   2  6.0  FEW025
+RPLL 21/2100 1008.0  26  25  94  80   2  5.0  FEW025                 HZ
+RPLL 21/2000 1008.0  26  25  94   0   0  4.8  FEW022                 HZ
+RPLL 21/1900 1009.0  27  25  89       1  5.0  BKN017                 HZ
+RPLL 21/1800 1009.0  27  24  84       1  7.0  FEW025  OVC250
+RPLL 21/1700 1009.0  27  23  79       1  7.0  SCT022  OVC250
+RPLL 21/1600 1010.0  27  23  79       1  8.0  FEW023  BKN250
+RPLL 21/1500 1010.0  27  23  79  20   2  8.0  FEW023  BKN300
+RPLL 21/1400 1011.0  27  24  84  20   2  8.0  FEW023  SCT300
+RPLL 21/1300 1010.0  26  24  89  60   3  7.0  FEW023  SCT300
+RPLL 21/1200 1009.0  27  24  84  70   3  7.0  SCT022  BKN100
+RPLL 21/1100 1009.0  27  24  84  60   3  5.0  SCT022  BKN100         -SHRA
+RPLL 21/1000 1008.0  28  24  79  70   3  5.0  FEW020  SCT022  BKN100 HZ
+RPLL 21/0900 1008.0  28  24  79       1  6.0  SCT020  SCT022  BKN100
+RPLL 21/0800 1007.0  29  24  74 220   2  5.0  SCT020  SCT022  BKN100 HZ
+RPLL 21/0700 1007.0  30  24  70 210   4  4.0  FEW020  SCT022  BKN100 HZ
+RPLL 21/0600 1007.0  32  26  71 270   5  5.0  FEW020  FEW022  SCT100 HZ
+RPLL 21/0500 1008.0  32  25  67       1  4.0  FEW022  BKN100         HZ
+RPLL 21/0400 1009.0  31  25  70       1  4.0  FEW020  OVC270         HZ
+RPLL 21/0300 1010.0  30  25  75       2  3.0  FEW020  OVC270         HZ
+RPLL 21/0200 1010.0  29  25  79 250   2  4.0  FEW018  OVC250         HZ
+RPLL 21/0100 1010.0  29  25  79       1  5.0  FEW017  OVC250         HZ
+RPLL 21/0000 1010.0  28  25  84       1  4.5  FEW014  OVC250         HZ
+</PRE>

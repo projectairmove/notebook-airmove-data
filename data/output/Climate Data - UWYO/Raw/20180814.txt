@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 13 Aug 2018 to 0000Z 14 Aug 2018</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                                       
+==== ======= ====== === === === === === === ==== ======= ======= ======= ============
+RPLL 14/0000 1007.0  27  27 100 230   4     10.0  SCT023  OVC090         -RA
+RPLL 13/2300 1006.0  26  26 100 230   7  13  9.0  SCT022  OVC090         -SHRA
+RPLL 13/2200 1005.0  26  26 100 230   3     10.0  FEW023  BKN100
+RPLL 13/2100 1005.0  26  26 100 220   4     10.0  FEW023  BKN100
+RPLL 13/1900 1005.0  27  27 100 220   4     10.0  SCT023  BKN100
+RPLL 13/1800 1006.0  26  26 100 220   4     10.0  SCT023  BKN100
+RPLL 13/1700 1006.0  26  26 100 220   4     10.0  SCT023  BKN090
+RPLL 13/1600 1007.0  26  26 100 190   2     10.0  SCT023  BKN090
+RPLL 13/1500 1007.0  26  26 100 210   2     10.0  SCT023  BKN100
+RPLL 13/1400 1008.0  26  26 100 210   2     10.0  FEW023  BKN100
+RPLL 13/1300 1007.0  26  26 100 220   4      9.0  SCT020  OVC090         -SHRA
+RPLL 13/1200 1007.0  26  26 100 230   7      5.0  BKN020  OVC090         SHRA
+RPLL 13/1100 1006.0  28  28 100 210   3     10.0  SCT023  OVC100
+RPLL 13/1000 1005.0  28  28 100 230   5     10.0  SCT023  OVC100
+RPLL 13/0900 1005.0  29  27  89 230   6     10.0  SCT023  OVC100         -SHRA
+RPLL 13/0800 1004.0  29  24  74 230   8     10.0  SCT023  OVC100
+RPLL 13/0700 1004.0  30  27  84 220   6     10.0  SCT023  OVC100
+RPLL 13/0600 1004.0  29  27  89 220   7     10.0  SCT023  OVC100
+RPLL 13/0500 1005.0  29  26  84 230   9      9.0  FEW022  SCT023  OVC090
+RPLL 13/0400 1005.0  30  26  79 240  11      9.0  SCT023  OVC090
+RPLL 13/0300 1006.0  27  27 100 240  10      8.0  BKN020  OVC080         -RA
+RPLL 13/0200 1006.0  28  28 100 230   6      8.0  SCT022  OVC080         -RA
+RPLL 13/0100 1006.0  26  26 100 260   8      5.0  BKN018  OVC060         RA
+RPLL 13/0000 1006.0  26  26 100 230   9      8.0  BKN020  OVC080         -RA
+</PRE>

@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 27 Mar 2022 to 0000Z 28 Mar 2022</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 28/0000 1012.0  29  23  70  70   2     10.0  FEW025
+RPLL 27/2300 1012.0  29  22  66   0   0     10.0  FEW025  SCT300
+RPLL 27/2200 1011.0  27  22  74  40   2     10.0  FEW030
+RPLL 27/2100 1010.0  27  22  74       1     10.0  FEW030
+RPLL 27/2000 1010.0  27  23  79       1     10.0  FEW030
+RPLL 27/1900 1010.0  27  23  79       1     10.0  FEW030
+RPLL 27/1800 1010.0  27  23  79       1     10.0  FEW030
+RPLL 27/1700 1011.0  28  23  74       1     10.0  FEW030
+RPLL 27/1600 1011.0  28  23  74 110   2     10.0  FEW030
+RPLL 27/1500 1011.0  28  23  74 110   2     10.0  FEW030
+RPLL 27/1400 1011.0  29  23  70 110   3     10.0  FEW025
+RPLL 27/1300 1011.0  29  23  70 100   3     10.0  FEW025
+RPLL 27/1200 1011.0  30  23  66 100   3     10.0  FEW025
+RPLL 27/1100 1010.0  30  23  66 100   3     10.0  FEW025  SCT300
+RPLL 27/1000 1010.0  31  23  62 110   5     10.0  FEW025  BKN300
+RPLL 27/0900 1009.0  31  24  66 120   5     10.0  FEW025  BKN300
+RPLL 27/0800 1009.0  33  23  56 130   6     10.0  FEW025  BKN300
+RPLL 27/0700 1008.0  34  23  53 120   6  12 10.0  SCT025  BKN300
+RPLL 27/0600 1009.0  33  24  59 130   5     10.0  SCT025  SCT300
+RPLL 27/0500 1010.0  34  24  56 150   5     10.0  FEW025  SCT300
+RPLL 27/0400 1011.0  33  24  59 120   5     10.0  FEW025  SCT300
+RPLL 27/0300 1012.0  33  24  59 120   4     10.0  SCT025  SCT100
+RPLL 27/0200 1013.0  33  23  56       3     10.0  FEW025
+RPLL 27/0100 1013.0  31  22  59 100   5     10.0  FEW025
+RPLL 27/0000 1013.0  30  23  66 100   3     10.0  FEW025
+</PRE>

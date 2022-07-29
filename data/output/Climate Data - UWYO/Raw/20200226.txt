@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 25 Feb 2020 to 0000Z 26 Feb 2020</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 26/0000 1014.0  26  20  70       1     10.0  FEW025
+RPLL 25/2300 1014.0  24  20  78       1      9.0  FEW025
+RPLL 25/2200 1013.0  24  20  78   0   0     10.0  FEW025
+RPLL 25/2100 1013.0  24  20  78       1     10.0  FEW030
+RPLL 25/2000 1013.0  25  20  74 360   1     10.0  FEW030
+RPLL 25/1900 1013.0  23  21  89  60   3     10.0  FEW030
+RPLL 25/1800 1013.0  25  21  78 110   3     10.0  FEW030
+RPLL 25/1700 1013.0  26  21  74 110   4     10.0  FEW020
+RPLL 25/1600 1014.0  26  20  70 110   3     10.0  FEW030
+RPLL 25/1500 1014.0  26  21  74 100   4     10.0  FEW030
+RPLL 25/1400 1014.0  26  21  74  80   3     10.0  FEW025
+RPLL 25/1300 1014.0  27  21  70 110   1     10.0  FEW025
+RPLL 25/1200 1013.0  27  19  62 100   3     10.0  FEW025
+RPLL 25/1100 1013.0  28  18  55 100   3     10.0  FEW025
+RPLL 25/1000 1012.0  28  22  70 120   4     10.0  FEW025
+RPLL 25/0900 1012.0  30  20  55 100   5     10.0  FEW025
+RPLL 25/0800 1012.0  30  22  62 130   4     10.0  FEW025  SCT100
+RPLL 25/0700 1012.0  31  21  55 130   5     10.0  FEW025  SCT100
+RPLL 25/0600 1012.0  32  21  52 120   5     10.0  SCT025
+RPLL 25/0500 1013.0  31  20  52       5  10 10.0  FEW025
+RPLL 25/0400 1014.0  29  20  58  90   6     10.0  FEW025  SCT100
+RPLL 25/0300 1015.0  30  21  59 100   6     10.0  FEW025
+RPLL 25/0200 1015.0  30  22  62 110   5     10.0  FEW025
+RPLL 25/0100 1015.0  29  21  62 100   5     10.0  FEW025
+RPLL 25/0000 1015.0  27  22  74  90   4     10.0  FEW025
+</PRE>

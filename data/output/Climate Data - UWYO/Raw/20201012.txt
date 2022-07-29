@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 11 Oct 2020 to 0000Z 12 Oct 2020</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s km                                       
+==== ======= ====== === === === === === ==== ======= ======= ======= ============
+RPLL 12/0000 1008.0  27  25  89   0   0 10.0  SCT023  OVC090
+RPLL 11/2300 1008.0  26  25  94   0   0 10.0  SCT023  OVC090         -RA
+RPLL 11/2200 1006.0  26  25  94   0   0 10.0  SCT023  OVC090         -RA
+RPLL 11/2100 1006.0  25  25 100   0   0  9.0  SCT023  OVC090         -RA
+RPLL 11/2000 1006.0  26  25  94 230   2  9.0  SCT023  OVC090         -RA
+RPLL 11/1900 1006.0  26  25  94   0   0  9.0  SCT023  OVC090         -RA
+RPLL 11/1800 1006.0  26  25  94   0   0  9.0  FEW025  OVC090         -RA
+RPLL 11/1700 1006.0  25  25 100  80   1  9.0  FEW025  OVC090         -RA
+RPLL 11/1620 1006.0  25  25 100 100   2  9.0  FEW025  OVC090         -RA
+RPLL 11/1600 1006.0  25  24  94  90   2  9.0  FEW025  OVC090
+RPLL 11/1500 1007.0  25  25 100  80   2  8.0  SCT023  OVC080         -RA
+RPLL 11/1400 1008.0  25  24  94  90   1  7.0  BKN020  OVC080         -RA
+RPLL 11/1300 1008.0  25  24  94       1  8.0  BKN020  OVC080         -RA
+RPLL 11/1200 1007.0  25  24  94 180   2  9.0  BKN020  OVC080         -RA
+RPLL 11/1100 1006.0  27  25  89 210   2  8.0  BKN020  OVC080         -RA
+RPLL 11/1000 1005.0  27  26  94 260   2  8.0  BKN020  OVC080         -RA
+RPLL 11/0900 1005.0  28  25  84 230   3  9.0  SCT020  BKN080         -RA
+RPLL 11/0800 1004.0  28  25  84 220   2  8.0  BKN020  OVC080         -RA
+RPLL 11/0700 1004.0  28  26  89 230   2  8.0  BKN020  BKN080         -RA
+RPLL 11/0600 1004.0  29  25  79 230   5  9.0  BKN020  BKN090
+RPLL 11/0500 1004.0  29  25  79 230   4  9.0  BKN020  BKN090         -SHRA
+RPLL 11/0400 1005.0  29  25  79 250   4 10.0  SCT020  OVC090
+RPLL 11/0300 1007.0  29  24  74 230   4  9.0  SCT020  OVC090
+RPLL 11/0200 1007.0  28  25  84 230   3 10.0  FEW016  BKN020  BKN100
+RPLL 11/0100 1007.0  28  25  84 230   2 10.0  SCT020  BKN080         -RA
+RPLL 11/0000 1007.0  26  24  89 220   2 10.0  FEW023  BKN100
+</PRE>

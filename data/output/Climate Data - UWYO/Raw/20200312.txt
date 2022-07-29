@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 11 Mar 2020 to 0000Z 12 Mar 2020</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 12/0000 1015.0  29  21  62 100   6     10.0  FEW025
+RPLL 11/2300 1015.0  28  22  70 100   4     10.0  FEW025
+RPLL 11/2200 1014.0  27  21  70  90   4     10.0  FEW025
+RPLL 11/2100 1013.0  27  21  70 100   3     10.0  FEW030
+RPLL 11/2000 1013.0  27  21  70  90   4     10.0  FEW030
+RPLL 11/1900 1013.0  27  21  70 100   5     10.0  FEW030
+RPLL 11/1800 1013.0  27  21  70 110   5     10.0  FEW030
+RPLL 11/1700 1014.0  28  21  66 110   5     10.0  FEW030
+RPLL 11/1600 1014.0  28  21  66 110   5  10 10.0  FEW030
+RPLL 11/1500 1014.0  28  22  70 110   6     10.0  FEW030
+RPLL 11/1400 1014.0  28  23  74 110   5     10.0  FEW025
+RPLL 11/1300 1014.0  29  23  70 120   4     10.0  FEW025
+RPLL 11/1200 1013.0  29  23  70 120   3     10.0  FEW025
+RPLL 11/1100 1013.0  29  23  70 120   4     10.0  FEW025
+RPLL 11/1000 1012.0  30  23  66 110   4     10.0  FEW023
+RPLL 11/0900 1012.0  31  23  62 110   4     10.0  SCT023
+RPLL 11/0800 1012.0  32  23  59  90   5     10.0  FEW023  SCT100
+RPLL 11/0700 1012.0  31  24  66 110   5     10.0  SCT023  BKN090
+RPLL 11/0600 1012.0  31  24  66 120   4     10.0  SCT023  BKN290
+RPLL 11/0500 1013.0  32  23  59       3     10.0  FEW023  BKN100
+RPLL 11/0400 1014.0  33  23  56       4     10.0  FEW025  SCT100
+RPLL 11/0300 1015.0  32  24  63 120   3     10.0  FEW025
+RPLL 11/0200 1015.0  32  24  63       3     10.0  FEW023  BKN300
+RPLL 11/0100 1015.0  30  24  70       1     10.0  FEW025  BKN300
+RPLL 11/0000 1014.0  29  24  74       2     10.0  FEW025  BKN300
+</PRE>

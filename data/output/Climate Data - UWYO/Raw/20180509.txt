@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z  8 May 2018 to 0000Z  9 May 2018</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                                       
+==== ======= ====== === === === === === === ==== ======= ======= ======= ============
+RPLL 09/0000 1013.0  31  24  66 110   4     10.0  FEW025
+RPLL 08/2300 1012.0  30  25  75 120   4     10.0  FEW025  SCT300
+RPLL 08/2200 1011.0  27  27 100  90   3     10.0  FEW025  SCT300
+RPLL 08/2100 1011.0  28  28 100  70   2     10.0  FEW025  SCT300
+RPLL 08/2000 1011.0  28  28 100       1     10.0  SCT023  SCT090
+RPLL 08/1900 1011.0  28  28 100       1      9.0  SCT023  BKN090
+RPLL 08/1800 1011.0  28  28 100       1      9.0  SCT023  BKN090
+RPLL 08/1700 1011.0  27  27 100 100   2      9.0  FEW022  FEW023
+RPLL 08/1600 1011.0  27  27 100  50   3      9.0  FEW022  FEW023  SCT100
+RPLL 08/1500 1011.0  27  27 100 110   3      9.0  SCT023  BKN100
+RPLL 08/1400 1011.0  27  24  84       1      9.0  SCT023  BKN100         -RA
+RPLL 08/1300 1012.0  26  26 100 280   2      9.0  FEW022  SCT023  OVC090 -RA
+RPLL 08/1200 1012.0  26  26 100 140   6  11  7.0  SCT020  OVC080         -TSRA
+RPLL 08/1100 1010.0  31  25  70 230   6      9.0  FEW022  FEW023  BKN100
+RPLL 08/1000 1009.0  31  24  66 240   7     10.0  FEW023  FEW025  SCT300
+RPLL 08/0900 1007.0  31  26  75 250   8     10.0  FEW025
+RPLL 08/0800 1007.0  33  25  63 250   7     10.0  FEW023  FEW025
+RPLL 08/0700 1007.0  34  24  56 240   7     10.0  FEW025
+RPLL 08/0600 1008.0  33  24  59 280   6  12 10.0  FEW025
+RPLL 08/0500 1008.0  34  24  56       4     10.0  FEW023  FEW025
+RPLL 08/0400 1009.0  35  22  47 130   4     10.0  FEW023  FEW025
+RPLL 08/0300 1010.0  34  21  47       3     10.0  FEW025
+RPLL 08/0200 1011.0  33  22  52       3     10.0  FEW025
+RPLL 08/0100 1011.0  32  23  59 110   4     10.0  FEW025
+RPLL 08/0000 1011.0  31  24  66 110   4     10.0  FEW025  SCT300
+</PRE>

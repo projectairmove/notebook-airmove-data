@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 30 Jan 2021 to 0000Z 31 Jan 2021</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 31/0000 1016.0  24  18  69  10   3     10.0  FEW025  SCT300
+RPLL 30/2300 1015.0  23  18  73  10   3     10.0  FEW025  SCT300
+RPLL 30/2200 1015.0  22  18  78       1     10.0  FEW025
+RPLL 30/2100 1014.0  22  18  78  10   2     10.0  FEW025
+RPLL 30/2000 1014.0  22  17  73  40   2     10.0  FEW025
+RPLL 30/1900 1014.0  23  17  69  90   2     10.0  FEW025
+RPLL 30/1800 1015.0  23  17  69  80   3     10.0  FEW025
+RPLL 30/1700 1015.0  23  17  69       1     10.0  FEW025
+RPLL 30/1600 1016.0  24  17  65 100   3     10.0  FEW025
+RPLL 30/1500 1016.0  24  17  65  80   3     10.0  FEW025
+RPLL 30/1400 1016.0  24  17  65 100   3     10.0
+RPLL 30/1300 1015.0  25  17  61  90   5     10.0  FEW025
+RPLL 30/1200 1015.0  25  18  65 100   3     10.0  FEW025
+RPLL 30/1100 1014.0  25  17  61 100   5     10.0  FEW025  SCT300
+RPLL 30/1000 1014.0  26  18  61  90   4     10.0  FEW025  SCT300
+RPLL 30/0900 1013.0  27  17  54  90   5     10.0  FEW025  BKN300
+RPLL 30/0800 1013.0  28  17  51  90   7     10.0  FEW025  BKN300
+RPLL 30/0700 1012.0  29  18  51  90   7  12 10.0  SCT023
+RPLL 30/0600 1013.0  29  18  51  80   7  13 10.0  FEW023
+RPLL 30/0500 1014.0  29  19  55  90   6     10.0  FEW025
+RPLL 30/0400 1015.0  29  18  51  80   8  13 10.0  SCT023  BKN100
+RPLL 30/0300 1015.0  29  19  55  80   8     10.0  SCT023  SCT100
+RPLL 30/0200 1016.0  28  19  58  90   5     10.0  SCT023
+RPLL 30/0100 1016.0  27  19  62 120   3     10.0  SCT023  SCT100
+RPLL 30/0000 1015.0  26  19  65  40   3     10.0  SCT023  SCT100
+</PRE>

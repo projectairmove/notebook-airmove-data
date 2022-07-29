@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 24 Aug 2019 to 0000Z 25 Aug 2019</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                                       
+==== ======= ====== === === === === === === ==== ======= ======= ======= ============
+RPLL 25/0000 1009.0  28  25  84       2     10.0  FEW023  SCT100  BKN300
+RPLL 24/2300 1008.0  26  24  89       1     10.0  FEW023  SCT100  BKN300
+RPLL 24/2200 1007.0  25  24  94       1     10.0  FEW023  SCT100
+RPLL 24/2100 1007.0  25  23  89   0   0     10.0  FEW023  SCT100
+RPLL 24/2000 1007.0  25  23  89   0   0     10.0  SCT023  OVC100
+RPLL 24/1900 1007.0  25  23  89  80   1     10.0  SCT023  OVC100
+RPLL 24/1800 1007.0  25  23  89   0   0     10.0  FEW023  BKN100  OVC250
+RPLL 24/1700 1008.0  25  23  89       1     10.0  FEW023  BKN100  OVC250
+RPLL 24/1600 1009.0  25  24  94 280   4     10.0  SCT018  OVC090         -RA
+RPLL 24/1500 1010.0  26  25  94       1     10.0  SCT018  OVC090         -RA
+RPLL 24/1400 1010.0  26  25  94       1   7  8.0  SCT018  OVC090         -RA
+RPLL 24/1300 1010.0  27  24  84 280   5     10.0  SCT018  OVC100
+RPLL 24/1200 1009.0  28  25  84 230   3     10.0  FEW023  BKN100  OVC250
+RPLL 24/1100 1008.0  28  25  84 190   2     10.0  FEW023  BKN100  OVC250
+RPLL 24/1000 1007.0  28  25  84 230   3     10.0  FEW023  OVC100
+RPLL 24/0900 1006.0  28  25  84 220   4     10.0  SCT023  OVC090
+RPLL 24/0800 1006.0  28  25  84 230   5      9.0  SCT023  OVC080         -SHRA
+RPLL 24/0700 1005.0  30  25  75 270   7     10.0  SCT023  BKN090
+RPLL 24/0600 1005.0  30  25  75 220   6     10.0  BKN023  BKN080
+RPLL 24/0500 1005.0  29  25  79 280   4     10.0  SCT023  BKN080
+RPLL 24/0400 1006.0  28  26  89 270   3     10.0  SCT023  BKN080
+RPLL 24/0300 1007.0  26  25  94 340   3      8.0  BKN023  OVC080
+RPLL 24/0200 1007.0  25  24  94 310   3   8  1.0  OVC020                 +RA
+RPLL 24/0100 1007.0  25  25 100 350   3      1.0  FEW018  OVC020         +RSRA
+RPLL 24/0000 1007.0  25  25 100 270   6      2.5  BKN023  OVC080         +RA
+</PRE>

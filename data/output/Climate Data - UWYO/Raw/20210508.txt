@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z  7 May 2021 to 0000Z  8 May 2021</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 08/0000 1010.0  30  23  66  80   2     10.0  FEW023  SCT300
+RPLL 07/2300 1010.0  29  23  70 110   2     10.0  SCT023  SCT300
+RPLL 07/2200 1010.0  27  23  79  80   1     10.0  FEW022  SCT025
+RPLL 07/2100 1009.0  27  23  79   0   0     10.0  FEW025
+RPLL 07/2000 1009.0  28  23  74       1     10.0  FEW025
+RPLL 07/1900 1010.0  27  23  79   0   0     10.0  FEW025
+RPLL 07/1800 1010.0  28  23  74       1     10.0  FEW025
+RPLL 07/1700 1010.0  28  23  74       1     10.0  FEW025
+RPLL 07/1600 1011.0  29  23  70  90   2     10.0  FEW025
+RPLL 07/1500 1011.0  29  23  70 110   3     10.0  FEW025
+RPLL 07/1400 1011.0  29  23  70 100   2     10.0  FEW025
+RPLL 07/1300 1011.0  30  23  66 160   2     10.0  FEW025  SCT100
+RPLL 07/1200 1011.0  30  23  66  80   3     10.0  FEW025  SCT100
+RPLL 07/1100 1010.0  31  23  62  90   3     10.0  FEW025  SCT100
+RPLL 07/1000 1009.0  32  23  59 110   5     10.0  SCT023  BKN100
+RPLL 07/0900 1008.0  33  23  56 120   6     10.0  SCT023  BKN100
+RPLL 07/0800 1008.0  33  23  56 130   4     10.0  SCT025  SCT100
+RPLL 07/0700 1008.0  34  24  56       6     10.0  SCT025  BKN100
+RPLL 07/0600 1008.0  35  25  56       5  10 10.0  FEW025  SCT100
+RPLL 07/0500 1010.0  34  25  59 120   5     10.0  SCT025  SCT100
+RPLL 07/0400 1011.0  32  25  67 130   6     10.0  SCT023  BKN090
+RPLL 07/0300 1011.0  32  25  67 120   4     10.0  SCT023  BKN090
+RPLL 07/0200 1012.0  31  25  70       3     10.0  BKN025
+RPLL 07/0100 1012.0  32  24  63 130   3     10.0  BKN025
+RPLL 07/0000 1012.0  31  23  62       2     10.0  SCT025  SCT100
+</PRE>

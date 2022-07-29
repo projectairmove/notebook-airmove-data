@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 11 Mar 2018 to 0000Z 12 Mar 2018</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 12/0000 1015.0  27  20  66  60   3     10.0  FEW023
+RPLL 11/2300 1014.0  25  21  78       1     10.0  FEW023
+RPLL 11/2200 1014.0  24  21  83       1     10.0  FEW025
+RPLL 11/2100 1013.0  23  21  89       1     10.0  FEW025
+RPLL 11/2000 1013.0  23  20  83   0   0     10.0  FEW025
+RPLL 11/1900 1013.0  24  19  74  60   3     10.0  FEW025
+RPLL 11/1800 1013.0  25  19  69  80   3     10.0  FEW025
+RPLL 11/1700 1014.0  25  19  69 100   3     10.0  FEW025
+RPLL 11/1600 1015.0  25  20  74 100   3     10.0  FEW025
+RPLL 11/1500 1015.0  25  20  74 100   4     10.0  FEW025
+RPLL 11/1400 1015.0  26  20  70 110   3     10.0  FEW025
+RPLL 11/1300 1015.0  26  20  70 110   4     10.0  FEW025
+RPLL 11/1200 1014.0  26  20  70 100   3     10.0  FEW025
+RPLL 11/1100 1014.0  26  20  70  90   4     10.0  FEW025
+RPLL 11/1000 1013.0  28  19  58 100   6     10.0  FEW025
+RPLL 11/0900 1013.0  29  19  55 100   6     10.0  FEW023
+RPLL 11/0800 1012.0  30  19  52  90   6     10.0  FEW023
+RPLL 11/0700 1013.0  30  20  55 120   7     10.0  FEW023
+RPLL 11/0600 1013.0  31  20  52  90   6     10.0  SCT025  SCT300
+RPLL 11/0500 1014.0  31  18  46  80   8     10.0  FEW025  SCT300
+RPLL 11/0400 1015.0  31  19  49  70   9     10.0  FEW025  BKN300
+RPLL 11/0300 1015.0  29  20  58  80   8     10.0  SCT023  BKN100
+RPLL 11/0200 1016.0  28  20  62 120   3     10.0  SCT023  BKN100
+RPLL 11/0100 1016.0  27  19  62 100   3     10.0  SCT023  BKN100
+RPLL 11/0000 1016.0  26  19  65       2   7 10.0  SCT023  BKN100
+</PRE>

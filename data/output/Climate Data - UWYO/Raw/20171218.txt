@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 17 Dec 2017 to 0000Z 18 Dec 2017</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                                       
+==== ======= ====== === === === === === === ==== ======= ======= ======= ============
+RPLL 18/0000 1010.0  24  24 100  20   2      8.0  SCT022  OVC090         -RA
+RPLL 17/2300 1009.0  24  24 100  10   2      9.0  SCT022  OVC090         -RA
+RPLL 17/2200 1009.0  24  24 100  40   2      9.0  SCT022  OVC090         -RA
+RPLL 17/2100 1008.0  24  24 100       1      9.0  SCT022  OVC090         -RA
+RPLL 17/2000 1008.0  24  24 100  10   3      9.0  SCT022  OVC090         -RA
+RPLL 17/1900 1008.0  25  24  94  30   3     10.0  SCT022  OVC090         -SHRA
+RPLL 17/1800 1008.0  25  23  89  10   4     10.0  SCT023  BKN100
+RPLL 17/1700 1009.0  25  23  89  10   4     10.0  SCT023  BKN100
+RPLL 17/1600 1009.0  26  23  84  10   4     10.0  SCT023  OVC100
+RPLL 17/1500 1009.0  26  22  79  10   5     10.0  SCT023  OVC100
+RPLL 17/1400 1009.0  26  22  79  20   5     10.0  SCT023  BKN100
+RPLL 17/1300 1009.0  26  22  79  20   5     10.0  FEW023  BKN100
+RPLL 17/1200 1009.0  26  22  79  10   5     10.0  SCT023  BKN100
+RPLL 17/1100 1008.0  26  22  79  20   5     10.0  SCT023  BKN100  OVC250
+RPLL 17/1000 1008.0  26  21  74  30   7     10.0  SCT023  OVC100
+RPLL 17/0900 1008.0  27  21  70  30   6     10.0  SCT023  OVC100
+RPLL 17/0800 1008.0  27  20  66  20   7     10.0  SCT023  OVC100
+RPLL 17/0700 1007.0  28  20  62  20   6     10.0  SCT023  BKN100
+RPLL 17/0600 1008.0  28  19  58  10   6  12 10.0  SCT023  BKN100
+RPLL 17/0500 1008.0  28  19  58  30   8  13 10.0  SCT023  BKN100
+RPLL 17/0400 1009.0  29  19  55  20   5     10.0  SCT023  OVC100
+RPLL 17/0300 1010.0  27  19  62  10   6     10.0  SCT023  OVC100
+RPLL 17/0200 1011.0  27  19  62  10   5     10.0  SCT023  OVC100
+RPLL 17/0100 1011.0  26  19  65  10   4     10.0  SCT023  OVC100
+RPLL 17/0000 1011.0  25  19  69  20   4     10.0  SCT023  OVC100
+</PRE>

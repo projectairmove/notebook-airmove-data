@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 27 Mar 2018 to 0000Z 28 Mar 2018</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS                 
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                          
+==== ======= ====== === === === === === === ==== ======= ======= =======
+RPLL 28/0000 1012.0  27  22  74       2   8 10.0  FEW025  SCT300
+RPLL 27/2300 1011.0  25  25 100   0   0     10.0  FEW025
+RPLL 27/2200 1010.0  24  24 100   0   0      8.0  FEW025  OVC290
+RPLL 27/2100 1010.0  23  23 100   0   0     10.0  FEW025
+RPLL 27/2000 1010.0  24  24 100 230   1     10.0  FEW025
+RPLL 27/1900 1010.0  25  24  94   0   0     10.0  FEW025
+RPLL 27/1800 1010.0  25  23  89       1     10.0  FEW025
+RPLL 27/1700 1010.0  25  23  89   0   0     10.0  FEW025
+RPLL 27/1600 1011.0  25  22  83 150   2     10.0  FEW025
+RPLL 27/1500 1011.0  26  21  74 140   2     10.0  FEW025  SCT100
+RPLL 27/1400 1011.0  26  20  70 130   2     10.0  FEW025  SCT100
+RPLL 27/1300 1011.0  26  20  70 130   3     10.0  FEW025  SCT100
+RPLL 27/1200 1010.0  26  21  74 150   3     10.0  FEW025  SCT100
+RPLL 27/1100 1010.0  27  21  70 120   4     10.0  FEW025  SCT300
+RPLL 27/1000 1009.0  28  20  62 130   4     10.0  FEW025  BKN300
+RPLL 27/0900 1009.0  30  19  52 130   5     10.0  SCT023  BKN100
+RPLL 27/0800 1008.0  31  19  49 140   4     10.0  SCT023  BKN100
+RPLL 27/0700 1008.0  31  19  49 130   4     10.0  SCT023  BKN100
+RPLL 27/0600 1009.0  31  20  52 160   4      8.0  SCT023  BKN100
+RPLL 27/0500 1010.0  30  20  55       3      8.0  SCT023  BKN100
+RPLL 27/0400 1011.0  29  21  62 180   2      8.0  SCT023
+RPLL 27/0300 1012.0  28  21  66       3      8.0  FEW023  SCT100
+RPLL 27/0200 1013.0  28  21  66 100   4      8.0  SCT023  BKN100
+RPLL 27/0100 1013.0  26  21  74 100   2      8.0  FEW022  SCT023  BKN100
+RPLL 27/0000 1013.0  26  21  74       1      8.0  SCT023  SCT250
+</PRE>

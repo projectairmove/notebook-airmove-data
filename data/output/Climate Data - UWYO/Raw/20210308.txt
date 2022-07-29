@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z  7 Mar 2021 to 0000Z  8 Mar 2021</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 08/0000 1015.0  27  20  66       1     10.0  FEW025  BKN100
+RPLL 07/2300 1015.0  26  20  70 130   2     10.0  FEW030  SCT100
+RPLL 07/2200 1013.0  25  20  74       1     10.0  FEW030
+RPLL 07/2100 1013.0  25  20  74  90   2     10.0  FEW030
+RPLL 07/2000 1013.0  25  20  74       1     10.0  FEW030
+RPLL 07/1900 1013.0  25  21  78       1     10.0  FEW030
+RPLL 07/1800 1013.0  26  20  70       1     10.0  FEW030
+RPLL 07/1700 1014.0  26  21  74 100   2     10.0  FEW030
+RPLL 07/1600 1015.0  26  20  70 100   2     10.0  FEW030
+RPLL 07/1500 1015.0  26  21  74  80   3     10.0  FEW030
+RPLL 07/1400 1015.0  27  21  70 100   3     10.0  FEW030
+RPLL 07/1300 1014.0  28  21  66  90   3     10.0  FEW030
+RPLL 07/1200 1013.0  28  19  58 100   3     10.0  FEW030
+RPLL 07/1100 1012.0  29  22  66 100   3     10.0  FEW030
+RPLL 07/1000         29  22  66 120   4     10.0  FEW030
+RPLL 07/0900 1011.0  31  21  55 120   4     10.0  FEW030
+RPLL 07/0800 1011.0  32  22  56 130   5  11 10.0  FEW030
+RPLL 07/0700 1011.0  33  21  49 130   5     10.0  FEW030
+RPLL 07/0600 1012.0  34  20  44 100   4     10.0  FEW025
+RPLL 07/0500 1013.0  34  20  44 120   4     10.0  FEW025
+RPLL 07/0400 1014.0  32  21  52 110   4     10.0  FEW025
+RPLL 07/0300 1015.0  31  22  59       3     10.0  FEW025
+RPLL 07/0200 1015.0  30  22  62 120   4     10.0  FEW025
+RPLL 07/0100 1015.0  29  21  62 110   3     10.0  FEW030
+RPLL 07/0000 1015.0  28  21  66       2     10.0  FEW030
+</PRE>

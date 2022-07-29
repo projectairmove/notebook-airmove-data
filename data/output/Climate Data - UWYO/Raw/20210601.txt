@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 31 May 2021 to 0000Z  1 Jun 2021</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s km                                       
+==== ======= ====== === === === === === ==== ======= ======= ======= ============
+RPLL 01/0000 1008.0  31  26  75       2  6.0  SCT023
+RPLL 31/2300 1008.0  30  26  79       1  7.0  FEW025  BKN300
+RPLL 31/2200 1007.0  29  26  84       1  7.0  BKN025
+RPLL 31/2100 1007.0  29  26  84       1  7.0  SCT025  BKN100
+RPLL 31/2000 1007.0  29  26  84       1  6.0  SCT019  BKN100         -SHRA
+RPLL 31/1900 1007.0  29  27  89       1  6.0  FEW020  SCT100         TS
+RPLL 31/1800 1006.0  29  25  79  60   2  5.0  FEW025  SCT090         HZ
+RPLL 31/1700 1007.0  29  26  84  70   2  8.0  FEW025  SCT090
+RPLL 31/1600 1007.0  30  26  79   0   0  9.0  FEW025
+RPLL 31/1500 1008.0  30  25  75       1  9.0  FEW025
+RPLL 31/1400 1007.0  29  25  79 230   2 10.0  SCT023  BKN080
+RPLL 31/1300 1007.0  31  27  79 250   2 10.0  FEW023  SCT025  BKN090
+RPLL 31/1200 1006.0  31  26  75 250   4 10.0  FEW025  SCT100
+RPLL 31/1100 1006.0  32  26  71 250   5 10.0  SCT023
+RPLL 31/1000 1005.0  32  25  67 230   3 10.0  FEW023  SCT025  SCT100
+RPLL 31/0900 1005.0  33  25  63 250   6 10.0  FEW022  SCT023  SCT100
+RPLL 31/0800 1004.0  33  27  71 260   7 10.0  FEW022  SCT100  BKN300
+RPLL 31/0700 1004.0  35  26  60 270   6 10.0  FEW022  BKN300
+RPLL 31/0600 1004.0  38  24  45       2 10.0  FEW025  BKN300
+RPLL 31/0500 1005.0  37  24  47       3 10.0  FEW030  BKN300
+RPLL 31/0400 1006.0  36  25  53       3 10.0  FEW030  BKN300
+RPLL 31/0300 1006.0  35  25  56 140   3  9.0  FEW025  BKN300
+RPLL 31/0200 1007.0  34  24  56       2  9.0  FEW023  SCT300
+RPLL 31/0100 1007.0  33  26  67       2  7.0  SCT023  SCT300
+RPLL 31/0000 1007.0  31  26  75       2  5.0  SCT023  SCT300         HZ
+</PRE>

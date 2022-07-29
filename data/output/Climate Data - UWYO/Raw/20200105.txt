@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z  4 Jan 2020 to 0000Z  5 Jan 2020</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS          Weather     
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                               
+==== ======= ====== === === === === === === ==== ======= ======= ============
+RPLL 05/0000 1015.0  26  20  70  70   3     10.0  FEW023  SCT100
+RPLL 04/2300 1014.0  26  21  74 100   2     10.0  SCT023  SCT100
+RPLL 04/2200 1013.0  25  22  83 100   2     10.0  SCT023  SCT100
+RPLL 04/2100 1013.0  25  22  83  80   2     10.0  SCT023
+RPLL 04/2000 1013.0  25  22  83 120   1     10.0  FEW023
+RPLL 04/1900 1013.0  25  22  83       1     10.0  SCT023  BKN100
+RPLL 04/1800 1013.0  25  22  83  70   3     10.0  FEW025
+RPLL 04/1700 1013.0  25  22  83  70   4     10.0  FEW023  BKN100
+RPLL 04/1600 1013.0  26  23  84 110   4     10.0  FEW025
+RPLL 04/1500 1014.0  25  23  89 120   4      9.0  SCT023  OVC090 -SHRA
+RPLL 04/1400 1014.0  26  23  84 110   4     10.0  FEW025  SCT100
+RPLL 04/1300 1014.0  27  22  74 100   3     10.0  SCT025  BKN090
+RPLL 04/1200 1013.0  28  21  66 110   3     10.0  FEW025  SCT100
+RPLL 04/1100 1012.0  27  20  66  70   3     10.0  FEW025
+RPLL 04/1000 1012.0  28  20  62  80   5     10.0  FEW025
+RPLL 04/0900 1011.0  29  22  66 110   4     10.0  SCT025
+RPLL 04/0800 1011.0  30  22  62       4     10.0  SCT025
+RPLL 04/0700 1011.0  31  22  59       2     10.0  SCT025
+RPLL 04/0600 1011.0  31  21  55 100   5  11 10.0  FEW023  BKN100
+RPLL 04/0500 1012.0  31  21  55 100   4     10.0  FEW023  SCT100
+RPLL 04/0400 1013.0  29  21  62 290   2     10.0  FEW023  SCT100
+RPLL 04/0300 1014.0  28  21  66 270   4     10.0  FEW023  BKN100
+RPLL 04/0200 1015.0  28  20  62       2     10.0  FEW025
+RPLL 04/0100 1015.0  28  20  62  60   2     10.0  FEW025
+RPLL 04/0000 1015.0  26  20  70       2     10.0  FEW025
+</PRE>

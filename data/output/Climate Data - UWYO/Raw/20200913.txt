@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 12 Sep 2020 to 0000Z 13 Sep 2020</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s km                                       
+==== ======= ====== === === === === === ==== ======= ======= ======= ============
+RPLL 13/0000 1010.0  29  25  79       1  9.0  FEW025  SCT300
+RPLL 12/2300 1010.0  27  25  89       1 10.0  FEW025  SCT300
+RPLL 12/2200 1010.0  26  24  89       1 10.0  FEW025  SCT300
+RPLL 12/2100 1009.0  26  24  89 210   1 10.0  FEW025
+RPLL 12/2000 1009.0  26  24  89   0   0 10.0  FEW023
+RPLL 12/1900 1009.0  26  24  89       1 10.0  FEW025
+RPLL 12/1800 1010.0  27  24  84       1 10.0  FEW023
+RPLL 12/1700 1010.0  27  24  84       1 10.0  FEW023
+RPLL 12/1600 1011.0  27  24  84       1 10.0  FEW025
+RPLL 12/1500 1011.0  28  24  79       1 10.0  SCT017
+RPLL 12/1400 1011.0  28  25  84       1 10.0  FEW025  SCT100
+RPLL 12/1300 1011.0  28  25  84       1 10.0  FEW023  BKN100
+RPLL 12/1200 1010.0  28  25  84       1 10.0  SCT023  BKN100
+RPLL 12/1100 1010.0  28  25  84       1 10.0  SCT023  OVC100         -SHRA
+RPLL 12/1000 1009.0  29  24  74       1 10.0  SCT023
+RPLL 12/0900 1009.0  29  24  74       1 10.0  SCT023  OVC100         -SHRA
+RPLL 12/0800 1009.0  30  24  70       1 10.0  SCT023  OVC100
+RPLL 12/0700 1009.0  30  24  70       2 10.0  SCT023  OVC100
+RPLL 12/0600 1010.0  30  24  70 140   3 10.0  SCT023  OVC100
+RPLL 12/0500         30  25  75 140   3 10.0  FEW022  SCT023  OVC100 -SHRA
+RPLL 12/0400 1010.0  31  25  70       3 10.0  SCT023  OVC100
+RPLL 12/0300 1010.0  30  25  75 110   4 10.0  FEW022  OVC090         -SHRA
+RPLL 12/0218 1011.0  30  26  79 100   4  9.0  SCT020  OVC090         -SHRA
+RPLL 12/0200 1011.0  30  26  79 120   3 10.0  BKN018  BKN090
+RPLL 12/0100 1011.0  29  26  84 110   2  9.0  SCT022  BKN090
+RPLL 12/0000 1011.0  29  26  84       1 10.0  SCT025  BKN100
+</PRE>

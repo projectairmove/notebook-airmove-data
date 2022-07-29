@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 13 Jul 2019 to 0000Z 14 Jul 2019</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                                       
+==== ======= ====== === === === === === === ==== ======= ======= ======= ============
+RPLL 14/0000 1008.0  29  25  79   0   0     10.0  FEW023  SCT100
+RPLL 13/2300 1007.0  29  25  79   0   0     10.0  FEW023  SCT100
+RPLL 13/2200 1007.0  28  24  79   0   0     10.0  FEW023  SCT090
+RPLL 13/2100 1007.0  28  24  79   0   0     10.0  FEW023  SCT090  BKN250
+RPLL 13/2000 1007.0  27  23  79  50   2     10.0  FEW023  SCT090
+RPLL 13/1900 1008.0  27  23  79  90   2     10.0  BKN023
+RPLL 13/1800 1008.0  27  23  79  80   2     10.0  BKN023
+RPLL 13/1700 1008.0  26  24  89 100   2     10.0  FEW023  SCT270
+RPLL 13/1600 1009.0  25  23  89  80   2     10.0  FEW023  BKN250
+RPLL 13/1500 1010.0  25  25 100       2     10.0  SCT023  BKN080         -SHRA
+RPLL 13/1400 1010.0  30  26  79 130   2     10.0  FEW023  BKN025         TS
+RPLL 13/1300 1009.0  30  26  79 200   3     10.0  SCT023  BKN025
+RPLL 13/1200 1009.0  30  25  75 230   3     10.0  FEW023  SCT100  BKN250
+RPLL 13/1100 1008.0  30  25  75 240   5      9.0  FEW023  SCT100  BKN250
+RPLL 13/1000 1007.0  31  25  70 240   5     10.0  FEW023  BKN250
+RPLL 13/0900 1006.0  31  25  70 250   7     10.0  FEW023  BKN250
+RPLL 13/0800 1006.0  32  24  63 290   4     10.0  FEW023  SCT250
+RPLL 13/0700 1006.0  32  24  63 270   5     10.0  FEW023
+RPLL 13/0600 1006.0  33  24  59 280   5     10.0  FEW025
+RPLL 13/0500 1007.0  32  25  67 300   5  11 10.0  FEW025
+RPLL 13/0400 1008.0  31  24  66 280   5     10.0  FEW025
+RPLL 13/0300 1009.0  31  24  66 270   5     10.0  FEW025
+RPLL 13/0200 1010.0  31  24  66 290   4     10.0  FEW025
+RPLL 13/0100 1010.0  30  24  70 300   4     10.0  FEW025
+RPLL 13/0000 1010.0  30  25  75 290   2      9.0  FEW025
+</PRE>

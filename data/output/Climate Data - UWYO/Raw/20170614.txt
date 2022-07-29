@@ -1,0 +1,14 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 14 Jun 2017 to 0000Z 14 Jun 2017</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD VIS  CLOUDS 
+     DD/HHMM hPa    C   C   %   deg m/s km          
+==== ======= ====== === === === === === ==== =======
+RPLL 14/0000 1012.0  31  27  79 120   2 10.0  FEW025
+</PRE>

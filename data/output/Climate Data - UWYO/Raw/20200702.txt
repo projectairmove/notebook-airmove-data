@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z  1 Jul 2020 to 0000Z  2 Jul 2020</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD VIS  CLOUDS 
+     DD/HHMM hPa    C   C   %   deg m/s km          
+==== ======= ====== === === === === === ==== =======
+RPLL 02/0000 1009.0  30  25  75       2 10.0  FEW021
+RPLL 01/2300 1009.0  29  26  84 160   2 10.0  FEW026
+RPLL 01/2200 1009.0  28  25  84 150   2  8.0  FEW023
+RPLL 01/1200 1008.0  30  24  70 250   4  8.0  BKN070
+RPLL 01/1100 1007.0  31  24  66 250   5 10.0  BKN071
+RPLL 01/1000 1007.0  31  23  62 260   5  9.0  FEW072
+RPLL 01/0800 1006.0  32  23  59 260   6 10.0  FEW069
+RPLL 01/0700 1007.0  32  23  59 280   7 10.0
+RPLL 01/0600 1007.0  33  24  59 280   6  8.0  FEW043
+RPLL 01/0300         33  24  59 290   4 10.0  FEW430
+RPLL 01/0200 1009.0  32  22  56 270   3 10.0
+RPLL 01/0100 1009.0  31  23  62       2 10.0
+RPLL 01/0000 1009.0  30  24  70 120   2 10.0
+</PRE>

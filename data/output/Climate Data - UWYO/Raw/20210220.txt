@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 19 Feb 2021 to 0000Z 20 Feb 2021</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 20/0000 1016.0  25  16  57       1     10.0  FEW025  BKN240
+RPLL 19/2300 1015.0  23  16  65       1     10.0  FEW025  BKN300
+RPLL 19/2200 1015.0  22  16  69       1     10.0  FEW023
+RPLL 19/2100 1014.0  22  15  64       1     10.0  FEW025
+RPLL 19/2000 1014.0  23  16  65  50   2     10.0  FEW025
+RPLL 19/1900 1015.0  23  16  65       1     10.0  FEW025  BKN080
+RPLL 19/1800 1014.0  23  16  65       1     10.0  FEW025  BKN100
+RPLL 19/1700 1015.0  23  16  65  70   2     10.0  FEW025  BKN100
+RPLL 19/1600 1015.0  24  17  65  70   2     10.0  FEW025  BKN100
+RPLL 19/1500 1016.0  25  17  61  90   3     10.0  FEW025  BKN090
+RPLL 19/1400 1016.0  25  16  57  90   4     10.0  SCT025  BKN100
+RPLL 19/1300 1016.0  25  16  57  80   4     10.0  SCT025  BKN100
+RPLL 19/1200 1016.0  25  16  57 100   3     10.0  FEW025  SCT100
+RPLL 19/1100 1015.0  25  16  57  90   4     10.0  FEW025  SCT300
+RPLL 19/1000 1014.0  26  16  54  80   6     10.0  FEW023  BKN300
+RPLL 19/0900 1013.0  27  17  54  90   5     10.0  FEW025  BKN300
+RPLL 19/0800         28          90   7     10.0  FEW023  BKN300
+RPLL 19/0700 1013.0  29  17  48  90   5     10.0  FEW025  SCT100
+RPLL 19/0600 1013.0  29  17  48  90   6     10.0  FEW025  SCT100
+RPLL 19/0500 1014.0  27  17  54  90   6     10.0  FEW025  BKN080
+RPLL 19/0400 1015.0  27  17  54 100   6  11 10.0  FEW025  BKN080
+RPLL 19/0300 1016.0  27  18  58 240   3     10.0  FEW025  BKN080
+RPLL 19/0200 1016.0  26  18  61 290   4     10.0  SCT025  SCT080
+RPLL 19/0100 1016.0  26  18  61       2     10.0  SCT025
+RPLL 19/0000 1016.0  26  18  61 190   2     10.0  SCT025  SCT080
+</PRE>

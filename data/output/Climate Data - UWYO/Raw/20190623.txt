@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 22 Jun 2019 to 0000Z 23 Jun 2019</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s km                                       
+==== ======= ====== === === === === === ==== ======= ======= ======= ============
+RPLL 23/0000 1009.0  30  25  75  60   1 10.0  FEW023  SCT300
+RPLL 22/2300 1007.0  30  26  79  50   1  8.0  FEW023  SCT080
+RPLL 22/2200 1007.0  29  26  84       1  8.0  SCT020  SCT090
+RPLL 22/2100 1007.0  29  26  84  30   3  8.0  SCT020  BKN080
+RPLL 22/2000 1007.0  28  26  89       1  7.0  FEW020
+RPLL 22/1900 1007.0  29  26  84       1  7.0  FEW020
+RPLL 22/1800 1007.0  28  26  89       1  9.0  FEW020
+RPLL 22/1700 1007.0  29  26  84       1  9.0  FEW020
+RPLL 22/1600 1008.0  29  26  84   0   0  9.0  SCT019                 -SHRA
+RPLL 22/1500 1008.0  29  26  84       1  9.0  FEW023
+RPLL 22/1400 1008.0  29  26  84       1  9.0  FEW023
+RPLL 22/1300 1008.0  29  26  84 280   1  9.0  FEW023  SCT100
+RPLL 22/1200 1008.0  29  25  79 260   2  9.0  SCT023  BKN100
+RPLL 22/1100 1007.0  29  25  79 100   4  9.0  FEW022  SCT023  BKN100 -SHRA
+RPLL 22/1000 1006.0  32  26  71 250   7  9.0  FEW022  BKN100
+RPLL 22/0900 1005.0  32  27  75 260   7  9.0  FEW023  SCT100  BKN250
+RPLL 22/0800 1005.0  34  26  63 260   6 10.0  FEW023  SCT250
+RPLL 22/0700 1005.0  34  26  63 280   5 10.0  FEW023
+RPLL 22/0600 1005.0  35  25  56 280   4 10.0  FEW023
+RPLL 22/0500 1008.0  35  25  56 280   4 10.0  FEW023
+RPLL 22/0400 1008.0  35  25  56 290   4 10.0  FEW023
+RPLL 22/0300 1009.0  34  25  59 290   4 10.0  SCT023
+RPLL 22/0200 1009.0  33  25  63 250   2  9.0  FEW023
+RPLL 22/0100 1009.0  32  26  71 240   2  9.0  FEW025
+RPLL 22/0000 1009.0  31  26  75 260   3  9.0  FEW025
+</PRE>

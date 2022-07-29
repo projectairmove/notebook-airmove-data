@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z  4 Apr 2017 to 0000Z  5 Apr 2017</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 05/0000 1014.0  28  19  58 110   3     10.0  FEW025
+RPLL 04/2300 1014.0  26  20  70   0   0     10.0  FEW025  SCT300
+RPLL 04/2200 1013.0  24  19  74   0   0     10.0  FEW030  SCT300
+RPLL 04/2100 1013.0  24  19  74   0   0     10.0  FEW030
+RPLL 04/2000 1012.0  25  19  69 100   2     10.0  FEW030
+RPLL 04/1900 1013.0  24  19  74  80   2     10.0  FEW030
+RPLL 04/1800 1013.0  24  18  69  70   2     10.0  FEW025
+RPLL 04/1700 1014.0  25  19  69   0   0     10.0  FEW025
+RPLL 04/1600 1014.0  26  19  65  90   2     10.0  FEW025
+RPLL 04/1500 1015.0  25  19  69 110   2     10.0  FEW025
+RPLL 04/1400 1015.0  26  20  70  90   3     10.0  FEW025
+RPLL 04/1300 1015.0  26  20  70 100   4     10.0  FEW025
+RPLL 04/1200 1015.0  28  20  62 100   5     10.0  FEW025
+RPLL 04/1100 1014.0  26  20  70 110   6     10.0  FEW025
+RPLL 04/1000 1013.0  28  19  58 110   6  12 10.0  FEW023
+RPLL 04/0900 1013.0  29  18  51 110   7     10.0  FEW023
+RPLL 04/0800 1012.0  30  18  49 110   6     10.0  SCT023
+RPLL 04/0700 1012.0  30  19  52 100   6  11 10.0  SCT023  SCT100
+RPLL 04/0600 1013.0  29  19  55  90   6     10.0  SCT023  BKN100
+RPLL 04/0500 1014.0  30  19  52 120   7     10.0  SCT023  BKN100
+RPLL 04/0400 1014.0  30  19  52 110   6     10.0  FEW023  BKN100
+RPLL 04/0300 1015.0  30  19  52       6     10.0  FEW023  BKN100
+RPLL 04/0200 1016.0  30  19  52 120   5     10.0  FEW025
+RPLL 04/0100 1016.0  28  19  58 110   4     10.0  FEW025
+RPLL 04/0000 1016.0  28  19  58 100   4     10.0  FEW025
+</PRE>

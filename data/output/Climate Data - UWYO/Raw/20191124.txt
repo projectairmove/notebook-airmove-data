@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 23 Nov 2019 to 0000Z 24 Nov 2019</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                                       
+==== ======= ====== === === === === === === ==== ======= ======= ======= ============
+RPLL 24/0000 1012.0  28  23  74 340   2     10.0  FEW023  BKN300
+RPLL 23/2300 1012.0  27  23  79 360   2     10.0  FEW023  SCT300
+RPLL 23/2200 1011.0  26  23  84  40   1     10.0  FEW023  SCT300
+RPLL 23/2100 1011.0  26  23  84       1     10.0  FEW023
+RPLL 23/2000 1011.0  26  23  84       1     10.0  FEW023  SCT300
+RPLL 23/1900 1011.0  27  24  84       1     10.0  FEW023  SCT300
+RPLL 23/1800 1011.0  26  24  89   0   0     10.0  FEW025
+RPLL 23/1700 1012.0  26  24  89  60   2     10.0  FEW025
+RPLL 23/1600 1012.0  27  23  79  70   1     10.0  FEW025
+RPLL 23/1500 1013.0  27  23  79       1     10.0  FEW025  SCT100
+RPLL 23/1400 1013.0  28  23  74       1     10.0  FEW023  SCT100
+RPLL 23/1300 1013.0  28  23  74  90   2     10.0  FEW023  SCT100
+RPLL 23/1200 1013.0  29  23  70 120   3     10.0  FEW023  SCT100
+RPLL 23/1100 1012.0  29  24  74 120   3     10.0  FEW023  SCT100
+RPLL 23/1000 1012.0  29  25  79  80   2     10.0  FEW023  SCT100
+RPLL 23/0900 1011.0  30  25  75       1      9.0  FEW023  SCT100
+RPLL 23/0800 1010.0  30  25  75       1     10.0  FEW023  SCT100
+RPLL 23/0700 1010.0  30  25  75       1     10.0  SCT023  BKN100
+RPLL 23/0600 1011.0  29  25  79       1     10.0  FEW020  SCT023  BKN100
+RPLL 23/0522 1013.0  27  24  84       2      7.0  FEW020  SCT023  BKN100 TS -SHRA
+RPLL 23/0500 1011.0  30  24  70 320   4     10.0  SCT023  BKN100
+RPLL 23/0400 1012.0  30  25  75       4   9 10.0  FEW023  SCT300
+RPLL 23/0300 1013.0  29  25  79 310   3     10.0  FEW022  SCT023  BKN100
+RPLL 23/0200 1013.0  29  25  79 310   3     10.0  SCT023  BKN100
+RPLL 23/0100 1013.0  29  25  79       2     10.0  FEW023  SCT100
+RPLL 23/0000 1013.0  28  25  84 270   2     10.0  FEW023  BKN100
+</PRE>

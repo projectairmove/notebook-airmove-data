@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 27 Nov 2020 to 0000Z 28 Nov 2020</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s km                                       
+==== ======= ====== === === === === === ==== ======= ======= ======= ============
+RPLL 28/0000 1012.0  27  25  89       1  9.0  SCT023  BKN100         -RA
+RPLL 27/2300 1011.0  26  24  89       1 10.0  FEW023  BKN100
+RPLL 27/2200 1010.0  26  24  89       1  9.0  FEW025  SCT100  BKN250
+RPLL 27/2100 1010.0  26  24  89       1  8.0  FEW025
+RPLL 27/2000 1009.0  26  24  89       1  9.0  FEW025
+RPLL 27/1900 1010.0  26  24  89 100   1  9.0  FEW023  SCT100
+RPLL 27/1800 1010.0  27  24  84  30   1 10.0  FEW025  SCT100
+RPLL 27/1700 1011.0  27  25  89  20   2 10.0  FEW025  BKN250
+RPLL 27/1600 1011.0  27  25  89       2  9.0  SCT023  BKN090         -RA
+RPLL 27/1500 1011.0  27  25  89  80   2 10.0  FEW025  SCT300
+RPLL 27/1400 1011.0  27  25  89  80   2 10.0  FEW025  SCT300
+RPLL 27/1300 1012.0  27  25  89       1 10.0  FEW025  SCT300
+RPLL 27/1200 1011.0  27  25  89       1 10.0  FEW023  SCT300
+RPLL 27/1100 1011.0  28  25  84   0   0 10.0  FEW023  SCT300
+RPLL 27/1000 1010.0  28  25  84       1  9.0  FEW023  SCT300
+RPLL 27/0900 1010.0  28  26  89 240   2  8.0  SCT022  BKN090
+RPLL 27/0800 1009.0  28  25  84 280   2  8.0  SCT022  BKN090
+RPLL 27/0700 1009.0  29  25  79  30   2  9.0  SCT023  BKN100
+RPLL 27/0600 1009.0  28  25  84       1  8.0  SCT022  BKN090         -RA
+RPLL 27/0500 1010.0  28  25  84       1  9.0  SCT022  BKN090
+RPLL 27/0400 1011.0  27  24  84 290   2  7.0  SCT020  OVC080         -RA
+RPLL 27/0300 1012.0  27  24  84 310   3  9.0  SCT023  BKN100
+RPLL 27/0200 1011.0  29  25  79 310   2  9.0  FEW018  BKN100
+RPLL 27/0100 1012.0  27  24  84  40   2  8.0  FEW025  BKN100
+RPLL 27/0000 1012.0  26  24  89  20   3  5.0  BKN018  OVC100         HZ
+</PRE>

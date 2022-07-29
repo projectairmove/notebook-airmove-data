@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 23 Mar 2020 to 0000Z 24 Mar 2020</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS         
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                  
+==== ======= ====== === === === === === === ==== ======= =======
+RPLL 24/0000 1013.0  29  22  66 110   3     10.0  FEW025
+RPLL 23/2300 1012.0  27  21  70  90   3     10.0  FEW025
+RPLL 23/2100 1011.0  26  21  74  70   2     10.0  FEW025
+RPLL 23/2000 1011.0  27  21  70 100   2     10.0  FEW025
+RPLL 23/1900 1011.0  27  21  70  90   2     10.0  FEW025
+RPLL 23/1800 1012.0  27  21  70 110   3     10.0  FEW025
+RPLL 23/1700 1012.0  27  21  70 130   4     10.0  FEW025
+RPLL 23/1600 1013.0  27  21  70 130   3     10.0  FEW025
+RPLL 23/1500 1013.0  27  21  70 130   5     10.0  FEW025
+RPLL 23/1400 1013.0  28  22  70 110   4     10.0  FEW025
+RPLL 23/1300 1012.0  29  21  62 100   5     10.0  FEW025
+RPLL 23/1200 1011.0  29  22  66 120   5     10.0  FEW025
+RPLL 23/1100 1011.0  29  23  70 120   5     10.0  FEW023  SCT100
+RPLL 23/1000 1010.0  30  23  66 130   2     10.0  FEW023  SCT100
+RPLL 23/0900 1009.0  31  23  62 140   5  12 10.0  FEW023  SCT100
+RPLL 23/0800 1009.0  33  22  52 140   5     10.0  FEW025
+RPLL 23/0700 1009.0  34  22  50 130   5  11 10.0  FEW025
+RPLL 23/0600 1009.0  35  22  47 140   5  10 10.0  FEW025
+RPLL 23/0500 1011.0  34  22  50 110   4     10.0  FEW025
+RPLL 23/0300 1013.0  32  22  56 130   5     10.0  FEW025
+RPLL 23/0200 1013.0  31  22  59 120   5     10.0  FEW025
+RPLL 23/0100 1013.0  30  22  62  90   5     10.0  FEW025
+RPLL 23/0000 1013.0  29  22  66 110   4     10.0  FEW025
+</PRE>

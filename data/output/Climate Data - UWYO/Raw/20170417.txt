@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 16 Apr 2017 to 0000Z 17 Apr 2017</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                                       
+==== ======= ====== === === === === === === ==== ======= ======= ======= ============
+RPLL 17/0000 1012.0  29  25  79 110   4     10.0  FEW025  SCT300
+RPLL 16/2300 1011.0  28  26  89 100   3     10.0  FEW025  SCT300
+RPLL 16/2200 1011.0  27  26  94 100   3     10.0  FEW025  SCT300
+RPLL 16/2100 1010.0  27  26  94  90   2     10.0  FEW025  SCT300
+RPLL 16/2000 1010.0  27  26  94  80   2     10.0  FEW025
+RPLL 16/1900 1010.0  27  25  89  90   2     10.0  FEW025
+RPLL 16/1800 1010.0  27  25  89  90   2     10.0  FEW025
+RPLL 16/1700 1011.0  27  25  89 100   3     10.0  SCT023  BKN090
+RPLL 16/1600 1012.0  27  25  89  90   3     10.0  SCT023  BKN090
+RPLL 16/1500 1012.0  27  25  89  80   4     10.0  FEW023  SCT100
+RPLL 16/1400 1011.0  27  25  89  80   4     10.0  SCT023  BKN100
+RPLL 16/1300 1011.0  27  25  89 100   4     10.0  SCT023  OVC090
+RPLL 16/1200 1011.0  27  26  94  90   3     10.0  SCT023  OVC090         -RA
+RPLL 16/1100 1010.0  27  26  94  80   3     10.0  SCT023  OVC090         -RA
+RPLL 16/1000 1010.0  27  27 100  70   4     10.0  SCT023  BKN090         -RA
+RPLL 16/0900 1010.0  27  27 100  80   3      9.0  SCT022  OVC080         -RA
+RPLL 16/0800 1009.0  28  27  94 100   4      9.0  SCT022  OVC080         -RA
+RPLL 16/0700 1009.0  27  27 100       1      9.0  SCT022  BKN080         -RA
+RPLL 16/0600 1010.0  26  26 100 100   5  10  5.0  FEW018  BKN020  OVC070 -RA
+RPLL 16/0500 1010.0  31  23  62       3     10.0  SCT023  BKN100
+RPLL 16/0400 1011.0  32  22  56  50   4     10.0  SCT023  BKN100         -SHRA
+RPLL 16/0300 1012.0  32  23  59 110   5     10.0  SCT025  BKN100
+RPLL 16/0200 1012.0  32  23  59 100   4     10.0  SCT025
+RPLL 16/0100 1012.0  29  25  79  90   4     10.0  FEW025  SCT100
+RPLL 16/0000 1012.0  27  27 100 100   3     10.0  SCT023  SCT100
+</PRE>

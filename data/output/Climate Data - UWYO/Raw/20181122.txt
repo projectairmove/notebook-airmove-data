@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>University of Wyoming, Atmospheric Science</TITLE>
+</HEAD>
+<BODY BGCOLOR=white>
+<H3>Observations for NINOY AQUINO INTL, Philippines (RPLL)</H3>
+<H5>Location: 14.52N 121.00E    21 meters</H5>
+<I>0000Z 21 Nov 2018 to 0000Z 22 Nov 2018</I>                                                                                   
+<PRE>
+STN     TIME ALTM   TMP DEW RH  DIR SPD GUS VIS  CLOUDS                  Weather     
+     DD/HHMM hPa    C   C   %   deg m/s m/s km                                       
+==== ======= ====== === === === === === === ==== ======= ======= ======= ============
+RPLL 22/0000 1011.0  27  27 100       1     10.0  SCT023  BKN100
+RPLL 21/2300 1011.0  27  27 100       1     10.0  SCT023  BKN100
+RPLL 21/2200 1010.0  26  26 100  60   2     10.0  SCT023  BKN100
+RPLL 21/2100 1009.0  26  26 100   0   0     10.0  FEW023  BKN100
+RPLL 21/2000 1009.0  26  26 100  80   1     10.0  SCT023  BKN100
+RPLL 21/1900 1009.0  25  25 100   0   0     10.0  FEW023  SCT100
+RPLL 21/1800 1010.0  26  26 100   0   0     10.0  FEW023  BKN090
+RPLL 21/1700 1010.0  26  26 100       1     10.0  FEW023  BKN100
+RPLL 21/1600 1010.0  27  27 100 110   1     10.0  FEW023  BKN100
+RPLL 21/1500 1011.0  27  27 100 100   2     10.0  SCT023  BKN100
+RPLL 21/1400 1010.0  26  26 100   0   0      9.0  FEW023  SCT100  BKN250
+RPLL 21/1300 1010.0  26  26 100       1      9.0  FEW023  SCT100  BKN250
+RPLL 21/1200 1010.0  26  26 100       1      9.0  FEW023  SCT100  BKN250
+RPLL 21/1100 1009.0  26  26 100       1      9.0  FEW023  BKN100
+RPLL 21/1000 1009.0  26  26 100       1      8.0  SCT023  OVC090
+RPLL 21/0900 1008.0  26  26 100       1      9.0  SCT023  OVC090
+RPLL 21/0800 1007.0  26  26 100       1   7  9.0  SCT022  OVC090
+RPLL 21/0700 1007.0  25  25 100 230   2      9.0  SCT022  OVC090         -RA
+RPLL 21/0600 1008.0  26  26 100 190   2      9.0  SCT023  OVC090         -RA
+RPLL 21/0500 1009.0  27  24  84  40   2      9.0  SCT023  OVC100         -RA
+RPLL 21/0400 1011.0  29  21  62  40   4     10.0  SCT023  OVC100         -RA
+RPLL 21/0300 1011.0  29  21  62  40   4     10.0  SCT023  OVC100         -SHRA
+RPLL 21/0200 1011.0  29  21  62  20   4     10.0  SCT023  BKN100
+RPLL 21/0100 1011.0  29  21  62  30   4     10.0  SCT023  BKN100
+RPLL 21/0000 1011.0  28  20  62  20   5      9.0  SCT023  OVC090         -SHRA
+</PRE>
